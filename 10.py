@@ -8,5 +8,6 @@ for i in range(5):
     if response.status_code == 200:
         print("github is up and running")
     sleep(5)
+print("resolved")
 
-print("conflict")
+a = 3
